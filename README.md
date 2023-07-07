@@ -1,4 +1,4 @@
-![Screenshot (3)](https://github.com/minhducgon/DA-PROJECT/assets/121803855/168345d9-42e6-4bc6-8264-b8aaf2b4c978)# E-COMMERCE SALES ANALYSIS
+# E-COMMERCE SALES ANALYSIS
 * About dataset:
   - Dataset is taken from Kaggle website (link: https://www.kaggle.com/datasets/carrie1/ecommerce-data)
   - This is a transnational data set which contains all the transactions occurring between 01/12/2010 and 09/12/2011 for a UK-based and registered non-store online retail.The company mainly sells unique all-occasion gifts. Many customers of the company are wholesalers
